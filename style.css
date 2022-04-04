@@ -22,7 +22,7 @@ body{
      background-color: gold;
    }
    */
-   img{width:50%;}
+    img{width:50%;}
 
   /*******class selectors*****/
  .profile_images{
@@ -35,7 +35,7 @@ body{
 
 
   .circular{
-    border-radius: 100%
+    border-radius: 50%
   }
 
   #heading{
