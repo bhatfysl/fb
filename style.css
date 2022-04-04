@@ -1,0 +1,43 @@
+/*********tag selectors*********/
+body{
+  background-color:seagreen;}
+
+  h1{
+    color:red;
+  }
+
+  h3{
+    color:green;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%;
+
+  }
+
+  /* img:hover {
+     background-color: gold;
+   }
+   */
+   img{width:50%;}
+
+  /*******class selectors*****/
+ .profile_images{
+   background-color: white;
+
+ }
+  .cover_photo{
+    background-color:black;
+  }
+
+
+  .circular{
+    border-radius: 100%
+  }
+
+  #heading{
+    color:seagreen;
+  }
